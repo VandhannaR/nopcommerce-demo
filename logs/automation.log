@@ -25,3 +25,17 @@
 17:32:24.886 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\2308345\eclipse-workspace\SeleniumProject\test-output\final.xml
 
+00:29:07.089 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2308345\eclipse-workspace\SeleniumProject\test-output\grouping.xml"
+00:29:25.437 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+00:29:25.438 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+00:29:34.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+00:29:34.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+00:29:37.209 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+00:29:37.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+00:29:37.452 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+00:29:37.452 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+00:30:09.670 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+00:30:09.670 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+00:30:11.387 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+00:30:11.392 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+00:30:12.389 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
